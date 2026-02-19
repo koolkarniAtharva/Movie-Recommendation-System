@@ -40,7 +40,7 @@ A comprehensive full-stack movie review application built with the MERN stack (M
 1.  **Clone the repository**:
 
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/koolkarniAtharva/Movie-Recommendation-System
     cd movie-recommendation-system
     ```
 
